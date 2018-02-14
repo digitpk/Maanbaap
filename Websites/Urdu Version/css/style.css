@@ -1,0 +1,16 @@
+.navbar{
+	font-size:26px;
+	width: 100%;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
+	
+.navbar-inverse .navbar-nav ..orange li a:focus, .navbar-inverse .navbar-nav>li>a:hover{
+	background-color: red;
+}
+.navbar-inverse .navbar-nav .blue li a:focus, .navbar-inverse .navbar-nav>li>a:hover
+{
+ background-color:#cc6500;
+ 
+}										
